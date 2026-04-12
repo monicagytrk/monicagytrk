@@ -2,7 +2,7 @@
 ____________________________________________________________________________________________________________
 <div id="badges">  
   
-  [<img src="https://img.shields.io/badge/Linkedin-beige?logoColor=blue&style=for-the-badge" alt="LinkedIn Badge"/>]([https://www.linkedin.com/in/monica-gayatri]) &nbsp; &nbsp;
+  [<img src="https://img.shields.io/badge/Linkedin-beige?logoColor=blue&style=for-the-badge" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/monica-gayatri) &nbsp; &nbsp;
   [<img src="https://img.shields.io/badge/Tableau-beige?logoColor=blue&style=for-the-badge" alt="Tableaupublic Badge"/>](https://public.tableau.com/app/profile/monica.gayatri.k.)
 </div>
 

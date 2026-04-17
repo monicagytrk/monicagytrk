@@ -36,7 +36,7 @@ Beyond my core projects, I am deeply committed to continuous growth. You will fr
 I’ve briefly organized my work below — including:
 
 - **Machine Learning Case Studies**: In-depth, statistically rigorous studies that emphasize exploratory modeling, validation, and interpretability.
-- **Data Analytics Exploratory Projects:**: Targeted experiments exploring dataset, visualization with interactive dasboard, and in-depth insight.
+- **Data Analytics Exploratory Projects:** Targeted experiments exploring dataset, visualization with interactive dasboard, and in-depth insight.
 
 
 ### 📝 Machine Learning Case Studies

@@ -16,7 +16,7 @@ I bring diverse experience from industries:
 
 💳 **FMCG**
 
-📊 **Data Analytics**
+🏭 **Supply Chain**
 
 My work spans across domains where Data-Driven Insights, Engineering Precision, and Statistical Rigor intersect to solve real-world problems.
 

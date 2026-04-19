@@ -4,6 +4,8 @@
   
   [<img src="https://img.shields.io/badge/Linkedin-beige?logoColor=blue&style=for-the-badge" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/monica-gayatri) &nbsp; &nbsp;
   [<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:monicagayatrik@gmail.com)
+  <img src="https://komarev.com/ghpvc/?username=monicagytrk&style=for-the-badge&color=EC008B" alt="Profile Views"/>
+
 </div>
 
 I’m a **Data Science and Machine Learning Enthusiast** with a passion for transforming complex data into actionable insights.

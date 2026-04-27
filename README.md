@@ -45,7 +45,7 @@ I’ve briefly organized my work below — including:
 
 | **Tools**  | **Project Title** | **Status** | **Link** |
 | :---: | --- | :---: | :---: |
-| [<img src="https://img.shields.io/badge/Python-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Python Badge"/>](https://www.python.org/)<br> [<img src="https://img.shields.io/badge/Jupyter-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Jupyter Badge"/>](https://jupyter.org/)<br>|Customer segmentation on airline loyalty data using LRFMC model and K-Means clustering to identify 5 distinct groups based on customer transaction behavior and provide data-driven marketing strategy recommendations.|🔵|[Notebook](https://github.com/monicagytrk/Airline-Customer-Segmentation-LRFMC/blob/main/01.%20Airline_Customer_Segmentation_LRFMC.ipynb)<br> [Repository](https://github.com/monicagytrk/Airline-Customer-Segmentation-LRFMC)|
+| [<img src="https://img.shields.io/badge/Python-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Python Badge"/>](https://www.python.org/)<br> [<img src="https://img.shields.io/badge/Jupyter-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Jupyter Badge"/>](https://jupyter.org/)<br>|**Airline Customer Segmentation:** Customer segmentation on airline loyalty data using LRFMC model and K-Means clustering to identify 5 distinct groups based on customer transaction behavior and provide data-driven marketing strategy recommendations.|🔵|[Notebook](https://github.com/monicagytrk/Airline-Customer-Segmentation-LRFMC/blob/main/01.%20Airline_Customer_Segmentation_LRFMC.ipynb)<br> [Repository](https://github.com/monicagytrk/Airline-Customer-Segmentation-LRFMC)|
 
 > Note:
 > - 🔵 **Completed Projects**  
